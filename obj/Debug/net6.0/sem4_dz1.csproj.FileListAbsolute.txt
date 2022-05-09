@@ -1,0 +1,15 @@
+/home/kirill/Документы/VSCode/sem4_dz1/bin/Debug/net6.0/sem4_dz1
+/home/kirill/Документы/VSCode/sem4_dz1/bin/Debug/net6.0/sem4_dz1.deps.json
+/home/kirill/Документы/VSCode/sem4_dz1/bin/Debug/net6.0/sem4_dz1.runtimeconfig.json
+/home/kirill/Документы/VSCode/sem4_dz1/bin/Debug/net6.0/sem4_dz1.dll
+/home/kirill/Документы/VSCode/sem4_dz1/bin/Debug/net6.0/sem4_dz1.pdb
+/home/kirill/Документы/VSCode/sem4_dz1/obj/Debug/net6.0/sem4_dz1.csproj.AssemblyReference.cache
+/home/kirill/Документы/VSCode/sem4_dz1/obj/Debug/net6.0/sem4_dz1.GeneratedMSBuildEditorConfig.editorconfig
+/home/kirill/Документы/VSCode/sem4_dz1/obj/Debug/net6.0/sem4_dz1.AssemblyInfoInputs.cache
+/home/kirill/Документы/VSCode/sem4_dz1/obj/Debug/net6.0/sem4_dz1.AssemblyInfo.cs
+/home/kirill/Документы/VSCode/sem4_dz1/obj/Debug/net6.0/sem4_dz1.csproj.CoreCompileInputs.cache
+/home/kirill/Документы/VSCode/sem4_dz1/obj/Debug/net6.0/sem4_dz1.dll
+/home/kirill/Документы/VSCode/sem4_dz1/obj/Debug/net6.0/refint/sem4_dz1.dll
+/home/kirill/Документы/VSCode/sem4_dz1/obj/Debug/net6.0/sem4_dz1.pdb
+/home/kirill/Документы/VSCode/sem4_dz1/obj/Debug/net6.0/sem4_dz1.genruntimeconfig.cache
+/home/kirill/Документы/VSCode/sem4_dz1/obj/Debug/net6.0/ref/sem4_dz1.dll
